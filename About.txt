@@ -1,0 +1,3 @@
+This code is written in C++ language.
+This is code to convert marks of subjects to CGPA and Percentage.
+This code takes marks and shows CGPA and Percentage as output.
