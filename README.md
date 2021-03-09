@@ -1,1 +1,1 @@
-# c-code-for-CGPA
+# C++ code for converting marks into CGPA and Percentage
